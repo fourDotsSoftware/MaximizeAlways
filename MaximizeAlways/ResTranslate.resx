@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Audio Applications" xml:space="preserve">
+    <value>Audio Applications</value>
+  </data>
+  <data name="Video Applications" xml:space="preserve">
+    <value>Video Applications</value>
+  </data>
+  <data name="PDF Applications" xml:space="preserve">
+    <value>PDF Applications</value>
+  </data>
+  <data name="File Management Applications" xml:space="preserve">
+    <value>File Management Applications</value>
+  </data>
+  <data name="System Utilities" xml:space="preserve">
+    <value>System Utilities</value>
+  </data>
+  <data name="Webdesign Applications" xml:space="preserve">
+    <value>Webdesign Applications</value>
+  </data>
+  <data name="Graphics Applications" xml:space="preserve">
+    <value>Graphics Applications</value>
+  </data>
+  <data name="Desktop Applications" xml:space="preserve">
+    <value>Desktop Applications</value>
+  </data>
+  <data name="Other Applications" xml:space="preserve">
+    <value>Other Applications</value>
+  </data>
+  <data name="Unspecified Error" xml:space="preserve">
+    <value>Unspecified Error</value>
+  </data>
+  <data name="The application will now exit and run the updated setup file" xml:space="preserve">
+    <value>The application will now exit and run the updated setup file</value>
+  </data>
+  <data name="Error. Setup File was not downloaded correctly !" xml:space="preserve">
+    <value>Error. Setup File was not downloaded correctly !</value>
+  </data>
+  <data name="Error. Could not run new Setup File !" xml:space="preserve">
+    <value>Error. Could not run new Setup File !</value>
+  </data>
+  <data name="Error Could not change Language !" xml:space="preserve">
+    <value>Error Could not change Language !</value>
+  </data>
+  <data name="Change PDF Properties" xml:space="preserve">
+    <value>Change PDF Properties</value>
+  </data>
+  <data name="Error could not read settings file !" xml:space="preserve">
+    <value>Error could not read settings file !</value>
+  </data>
+  <data name="Error could not write Settings !" xml:space="preserve">
+    <value>Error could not write Settings !</value>
+  </data>
+  <data name="Error. Could not Save if Application will start automatically with Windows" xml:space="preserve">
+    <value>Error. Could not Save if Application will start automatically with Windows</value>
+  </data>
+  <data name="Error Could not set Update Proxy !" xml:space="preserve">
+    <value>Error Could not set Update Proxy !</value>
+  </data>
+  <data name="Error could not get Settings !" xml:space="preserve">
+    <value>Error could not get Settings !</value>
+  </data>
+  <data name="Error could not set Settings !" xml:space="preserve">
+    <value>Error could not set Settings !</value>
+  </data>
+  <data name="Always" xml:space="preserve">
+    <value>Always</value>
+  </data>
+  <data name="Program" xml:space="preserve">
+    <value>Program</value>
+  </data>
+  <data name="Schedule" xml:space="preserve">
+    <value>Schedule</value>
+  </data>
+  <data name="Please fill out the Questionnaire !" xml:space="preserve">
+    <value>Please fill out the Questionnaire !</value>
+  </data>
+  <data name="Error. Could not send Questionnaire !" xml:space="preserve">
+    <value>Error. Could not send Questionnaire !</value>
+  </data>
+  <data name="Fore=" xml:space="preserve">
+    <value>Fore=</value>
+  </data>
+  <data name="A new version has been released. Press the OK button to download the new version" xml:space="preserve">
+    <value>A new version has been released. Press the OK button to download the new version</value>
+  </data>
+  <data name="This is the latest version !" xml:space="preserve">
+    <value>This is the latest version !</value>
+  </data>
+  <data name="An error occured !" xml:space="preserve">
+    <value>An error occured !</value>
+  </data>
+  <data name="A new version has been released. Would you like to download it now ?" xml:space="preserve">
+    <value>A new version has been released. Would you like to download it now ?</value>
+  </data>
+  <data name="Download new version ?" xml:space="preserve">
+    <value>Download new version ?</value>
+  </data>
+  <data name="It is necessary to upgrade to the latest version of the application. Press the OK button to download the new version" xml:space="preserve">
+    <value>It is necessary to upgrade to the latest version of the application. Press the OK button to download the new version</value>
+  </data>
+  <data name="Tral Version - Unlicensed" xml:space="preserve">
+    <value>Tral Version - Unlicensed</value>
+  </data>
+</root>

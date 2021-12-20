@@ -1,0 +1,944 @@
+﻿<Mappings><Entry OldName="MaximizeAlways.ContextMenuHelper.DtFrom" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.c9e538759fe0233ce82b1c2e2be3c6e19" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper.DtLast" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.c9856868cf82307c89a7d05df84b027ed" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper.DtTo" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.c86cb467e5408fbc62653ebaaf785ef71" />
+<Entry OldName="MaximizeAlways.frmAbout.components" NewName="MaximizeAlways.frmAbout.cba39455e184db5fb480b66832c0f82d1" />
+<Entry OldName="MaximizeAlways.frmAbout.lblAbout" NewName="MaximizeAlways.frmAbout.c5d813ab11785a2ddd7c49ba52e27e701" />
+<Entry OldName="MaximizeAlways.frmAbout.btnClose" NewName="MaximizeAlways.frmAbout.c98f5a8bdcafebfde2d7013862e13d064" />
+<Entry OldName="MaximizeAlways.frmAbout.pictureBox1" NewName="MaximizeAlways.frmAbout.c10946bfa904ce7885b01e6a0acdd0ce8" />
+<Entry OldName="MaximizeAlways.frmAbout.linkLabel1" NewName="MaximizeAlways.frmAbout.cf3efb71bf6dddd5334958a7bd641612b" />
+<Entry OldName="MaximizeAlways.frmAbout.label1" NewName="MaximizeAlways.frmAbout.c184479f6bb24022fc94aa3af53033ad3" />
+<Entry OldName="MaximizeAlways.frmAbout.label2" NewName="MaximizeAlways.frmAbout.cea8094c2f14a9321857f51b733a93f96" />
+<Entry OldName="MaximizeAlways.frmAbout.linkLabel2" NewName="MaximizeAlways.frmAbout.ccdc1cef5c3e173c88175f90dee8024d0" />
+<Entry OldName="MaximizeAlways.frmAbout.niceLine1" NewName="MaximizeAlways.frmAbout.c3893dd91c740db30f2d7817c0afd4a71" />
+<Entry OldName="MaximizeAlways.frmAbout.niceLine3" NewName="MaximizeAlways.frmAbout.c8d55fe70994eb871217a8aca42cb1a88" />
+<Entry OldName="MaximizeAlways.frmAbout.label3" NewName="MaximizeAlways.frmAbout.c2a5c6f7183e8614a5969293252146512" />
+<Entry OldName="MaximizeAlways.frmAbout.ullProductWebpage" NewName="MaximizeAlways.frmAbout.cc77adb6bc157f4b4566972d2086f11a6" />
+<Entry OldName="MaximizeAlways.frmAbout.btnBuy" NewName="MaximizeAlways.frmAbout.c994b1ab3b581b73db0c84f4eb184c6fd" />
+<Entry OldName="MaximizeAlways.frmAbout.lblRegistered" NewName="MaximizeAlways.frmAbout.cfa4804e863fef0634d228006c83a12f7" />
+<Entry OldName="MaximizeAlways.frmAbout.btnRegister" NewName="MaximizeAlways.frmAbout.c802966a5865a24cc71f9766b5c1e421a" />
+<Entry OldName="MaximizeAlways.frmAbout.niceLine2" NewName="MaximizeAlways.frmAbout.cbdf7792c1d5215204e0c3c77ee964309" />
+<Entry OldName="MaximizeAlways.frmAbout.label4" NewName="MaximizeAlways.frmAbout.cd2509e20f103d58fd27b364f9b17a4e8" />
+<Entry OldName="MaximizeAlways.frmAbout.lblLicenseKey" NewName="MaximizeAlways.frmAbout.cc0de3349f973b49f2ee54b98b7903136" />
+<Entry OldName="MaximizeAlways.frmAbout.niceLine4" NewName="MaximizeAlways.frmAbout.c81b9fd54ebe585dd26b4a62a3d5a57f8" />
+<Entry OldName="MaximizeAlways.frmAdeia.components" NewName="MaximizeAlways.frmAdeia.cba39455e184db5fb480b66832c0f82d1" />
+<Entry OldName="MaximizeAlways.frmAdeia.label1" NewName="MaximizeAlways.frmAdeia.c184479f6bb24022fc94aa3af53033ad3" />
+<Entry OldName="MaximizeAlways.frmAdeia.btnOK" NewName="MaximizeAlways.frmAdeia.c6032ae9583d69d8cd81a4c817120eeb0" />
+<Entry OldName="MaximizeAlways.frmAdeia.label2" NewName="MaximizeAlways.frmAdeia.cea8094c2f14a9321857f51b733a93f96" />
+<Entry OldName="MaximizeAlways.frmAdeia.btnExit" NewName="MaximizeAlways.frmAdeia.c9da3ea8d1a883c8b6f16e0d560db60f3" />
+<Entry OldName="MaximizeAlways.frmAdeia.lblAppName" NewName="MaximizeAlways.frmAdeia.cc84262e326f46f1d9cb7c8b87e5dfcc2" />
+<Entry OldName="MaximizeAlways.frmMain.InLaunch" NewName="MaximizeAlways.frmMain.c5baee428b429350b54dbc3db82bf86fb" />
+<Entry OldName="MaximizeAlways.frmMain.WINEVENT_OUTOFCONTEXT" NewName="MaximizeAlways.frmMain.c9ce22de32f6f8c0b7c6de84e8c5798ae" />
+<Entry OldName="MaximizeAlways.frmMain.EVENT_SYSTEM_MINIMIZEEND" NewName="MaximizeAlways.frmMain.c72af092c2afcb7b5e8187ebb62fabd39" />
+<Entry OldName="MaximizeAlways.frmMain.EVENT_SYSTEM_SWITCHEND" NewName="MaximizeAlways.frmMain.cfdca6fb83dd189d785573f895c6ad07b" />
+<Entry OldName="MaximizeAlways.frmMain.EVENT_SYSTEM_FOREGROUND" NewName="MaximizeAlways.frmMain.cefae30d99247fb5c40dbab19ba63d498" />
+<Entry OldName="MaximizeAlways.frmMain.EVENT_SYSTEM_MOVESIZEEND" NewName="MaximizeAlways.frmMain.cc23118b73e0639063a704949072d4d8f" />
+<Entry OldName="MaximizeAlways.frmMain.EVENT_OBJECT_LOCATIONCHANGE" NewName="MaximizeAlways.frmMain.c6eee668f8b1d0178867ee2ab3717d58c" />
+<Entry OldName="MaximizeAlways.frmMain.EVENT_SYSTEM_MINIMIZESTART" NewName="MaximizeAlways.frmMain.c28a58042de153f084bd5d863b4042825" />
+<Entry OldName="MaximizeAlways.frmMain.GWL_EXSTYLE" NewName="MaximizeAlways.frmMain.cd95046d787ee1bf10312080347e2f196" />
+<Entry OldName="MaximizeAlways.frmMain.GWL_STYLE" NewName="MaximizeAlways.frmMain.c1fbaf28cb52039aa7e1421061ddadb1d" />
+<Entry OldName="MaximizeAlways.frmMain.WS_EX_APPWINDOW" NewName="MaximizeAlways.frmMain.c10861262191b4a11d6e8aef34881de9d" />
+<Entry OldName="MaximizeAlways.frmMain.winHook" NewName="MaximizeAlways.frmMain.c86477d8a1784fe9dac99d6ef3445efc1" />
+<Entry OldName="MaximizeAlways.frmMain.listener" NewName="MaximizeAlways.frmMain.c11598dbdf81464aee5d06b0e36e8e5ef" />
+<Entry OldName="MaximizeAlways.frmMain.winHook2" NewName="MaximizeAlways.frmMain.cc97d4da5dec74e26d0f110b8e7353292" />
+<Entry OldName="MaximizeAlways.frmMain.listener2" NewName="MaximizeAlways.frmMain.cf6ebc0304726b2648968f3c3ce868058" />
+<Entry OldName="MaximizeAlways.frmMain.winHook3" NewName="MaximizeAlways.frmMain.c813d5d0e0fadb602cb69e1317bc3ce9c" />
+<Entry OldName="MaximizeAlways.frmMain.listener3" NewName="MaximizeAlways.frmMain.c2d71d785d8e0b9489ffea50a8993820d" />
+<Entry OldName="MaximizeAlways.frmMain.winHook4" NewName="MaximizeAlways.frmMain.cb4f879dac1f3bb849604f4fdd5f3218b" />
+<Entry OldName="MaximizeAlways.frmMain.listener4" NewName="MaximizeAlways.frmMain.c6552fd4081a835043dbb3531ac4cda28" />
+<Entry OldName="MaximizeAlways.frmMain.winHook5" NewName="MaximizeAlways.frmMain.cc1d1bf225082b1ef183da4b69b699686" />
+<Entry OldName="MaximizeAlways.frmMain.listener5" NewName="MaximizeAlways.frmMain.c1a61984b4ff507d9ca616e3a61865a0c" />
+<Entry OldName="MaximizeAlways.frmMain.WS_CHILD" NewName="MaximizeAlways.frmMain.c022bd44b88512d3ed0c8c07e2bb54e5f" />
+<Entry OldName="MaximizeAlways.frmMain.WS_EX_TOOLWINDOW" NewName="MaximizeAlways.frmMain.c92d8e4475c14039916e827ec039a7afe" />
+<Entry OldName="MaximizeAlways.frmMain.WS_EX_TOPMOST" NewName="MaximizeAlways.frmMain.c8e235cd8969818869ee93cf4b3ac3f01" />
+<Entry OldName="MaximizeAlways.frmMain.WS_EX_WINDOWEDGE" NewName="MaximizeAlways.frmMain.c25c77a79d5cc9ccbebf347460672bb26" />
+<Entry OldName="MaximizeAlways.frmMain.WS_EX_PALETTEWINDOW" NewName="MaximizeAlways.frmMain.ca4713ce427d08380b750323b1ca9d8e7" />
+<Entry OldName="MaximizeAlways.frmMain.GW_OWNER" NewName="MaximizeAlways.frmMain.c58f0f193d51f6b77340e5f8674501622" />
+<Entry OldName="MaximizeAlways.frmMain.GW_HWNDFIRST" NewName="MaximizeAlways.frmMain.c25c617ad8105a26757583204c3b1a731" />
+<Entry OldName="MaximizeAlways.frmMain.GW_CHILD" NewName="MaximizeAlways.frmMain.ca96368495bed5d9e8f7f27d04e893229" />
+<Entry OldName="MaximizeAlways.frmMain.WS_MAXIMIZEBOX" NewName="MaximizeAlways.frmMain.cc1c47ae239a28cfaebfcf434e74c415a" />
+<Entry OldName="MaximizeAlways.frmMain.WS_MINIMIZEBOX" NewName="MaximizeAlways.frmMain.cce9f2ec6f745edf9c6df68eadf8f4d8b" />
+<Entry OldName="MaximizeAlways.frmMain.WS_THICKFRAME" NewName="MaximizeAlways.frmMain.cefdd609ab6caef486dc93aabf0fdb30a" />
+<Entry OldName="MaximizeAlways.frmMain.WS_POPUP" NewName="MaximizeAlways.frmMain.ca0267d2b761955e2950efd67d40b368e" />
+<Entry OldName="MaximizeAlways.frmMain.WS_TILED" NewName="MaximizeAlways.frmMain.cb4fa354bf1def8dc18e4a2057a533ee3" />
+<Entry OldName="MaximizeAlways.frmMain.WS_BORDER" NewName="MaximizeAlways.frmMain.c5dcf18c7515b2ed44add76b53d779238" />
+<Entry OldName="MaximizeAlways.frmMain.components" NewName="MaximizeAlways.frmMain.cba39455e184db5fb480b66832c0f82d1" />
+<Entry OldName="MaximizeAlways.frmMain.notifyIcon1" NewName="MaximizeAlways.frmMain.c1755c3848a329597dbac3833e70b0d0d" />
+<Entry OldName="MaximizeAlways.frmMain.contextMenuStrip1" NewName="MaximizeAlways.frmMain.cec2a68595935b9df4b8801dbaa422eaa" />
+<Entry OldName="MaximizeAlways.frmMain.cmiExit" NewName="MaximizeAlways.frmMain.c646a4add721380a2528c6b1dc9f37303" />
+<Entry OldName="MaximizeAlways.frmMain.timer1W" NewName="MaximizeAlways.frmMain.c88984500b5bba14c5d1c3c8f2180684b" />
+<Entry OldName="MaximizeAlways.frmMain.cmiMinWindows" NewName="MaximizeAlways.frmMain.ca917704a6b106a047eaa12f05e243031" />
+<Entry OldName="MaximizeAlways.frmMain.cmiMinAll" NewName="MaximizeAlways.frmMain.c772b9375c010ea15620b0455ff2ee1ee" />
+<Entry OldName="MaximizeAlways.frmMain.cmiMaxAll" NewName="MaximizeAlways.frmMain.c03b5759afca5f4212b452208b8ec5d8a" />
+<Entry OldName="MaximizeAlways.frmMain.toolStripMenuItem1" NewName="MaximizeAlways.frmMain.cfca2e11135a80db3a57df6a03404f50a" />
+<Entry OldName="MaximizeAlways.frmMain.cmiOptions" NewName="MaximizeAlways.frmMain.cffce480501c5f499c8fe25fcdd12497d" />
+<Entry OldName="MaximizeAlways.frmMain.helpToolStripMenuItem" NewName="MaximizeAlways.frmMain.ce7af716c1147e0bfb2b7b8ffc07b9dde" />
+<Entry OldName="MaximizeAlways.frmMain.timer2W" NewName="MaximizeAlways.frmMain.c6f0307d484f55c041467d39d6ae8ec0d" />
+<Entry OldName="MaximizeAlways.frmPurchase.components" NewName="MaximizeAlways.frmPurchase.cba39455e184db5fb480b66832c0f82d1" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnBuy" NewName="MaximizeAlways.frmPurchase.c994b1ab3b581b73db0c84f4eb184c6fd" />
+<Entry OldName="MaximizeAlways.frmPurchase.lblMsg" NewName="MaximizeAlways.frmPurchase.c3195510ed437174be3efd69ec0f04f42" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnClose" NewName="MaximizeAlways.frmPurchase.c98f5a8bdcafebfde2d7013862e13d064" />
+<Entry OldName="MaximizeAlways.frmPurchase.lblWait" NewName="MaximizeAlways.frmPurchase.c500228d329cc8787b7017d434161c5dc" />
+<Entry OldName="MaximizeAlways.frmPurchase.timContinue" NewName="MaximizeAlways.frmPurchase.c0b4dbdfd69c57cc94dfb40dab56336d6" />
+<Entry OldName="MaximizeAlways.frmPurchase.lblAppName" NewName="MaximizeAlways.frmPurchase.cc84262e326f46f1d9cb7c8b87e5dfcc2" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnRegister" NewName="MaximizeAlways.frmPurchase.c802966a5865a24cc71f9766b5c1e421a" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnExit" NewName="MaximizeAlways.frmPurchase.c9da3ea8d1a883c8b6f16e0d560db60f3" />
+<Entry OldName="MaximizeAlways.frmPurchase.label1" NewName="MaximizeAlways.frmPurchase.c184479f6bb24022fc94aa3af53033ad3" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper.DtFrom" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd.c9e538759fe0233ce82b1c2e2be3c6e19" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper.DtLast" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd.c9856868cf82307c89a7d05df84b027ed" />
+<Entry OldName="MaximizeAlways.InputModeHelper.frmad" NewName="A.ceefa61cc52711edc4b88916f62552848.cd19bcb3306242b024c420255d03bd1ef" />
+<Entry OldName="MaximizeAlways.MiscHelper.DateTimeFormat" NewName="A.c5f187d2e5e3b0b54548e3c3f9d63a227.cb1fb18f4c18479bf5b4649aba1364b5b" />
+<Entry OldName="MaximizeAlways.Module.ApplicationName" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.cab6631948b93cb29cfad9ef2a4421938" />
+<Entry OldName="MaximizeAlways.Module.Version" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.c99aad8146f920f8e42dec0a22eede940" />
+<Entry OldName="MaximizeAlways.Module.ShortApplicationTitle" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.c084a87f44b6aa19039d7cc1bd05bdae5" />
+<Entry OldName="MaximizeAlways.Module.ApplicationTitle" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.cb95a2a2a10c5b9971af7a5760f274319" />
+<Entry OldName="MaximizeAlways.Module.ProductWebpageURL" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.cb74169ed1f06b93260ebc350a917cc92" />
+<Entry OldName="MaximizeAlways.Module.BuyURL" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.c141604730edfec427f1a8ccf85fe3327" />
+<Entry OldName="MaximizeAlways.NiceLine.components" NewName="MaximizeAlways.NiceLine.cba39455e184db5fb480b66832c0f82d1" />
+<Entry OldName="MaximizeAlways.NiceLine._Caption" NewName="MaximizeAlways.NiceLine.c353b9dbf28938f256c20b5b5c45053e7" />
+<Entry OldName="MaximizeAlways.NiceLine._CaptionMarginSpace" NewName="MaximizeAlways.NiceLine.c1991ee47d63c409ab54290145295fe6f" />
+<Entry OldName="MaximizeAlways.NiceLine._CaptionPadding" NewName="MaximizeAlways.NiceLine.cf6a63474baa1043ce99d335974a01419" />
+<Entry OldName="MaximizeAlways.NiceLine._LineVerticalAlign" NewName="MaximizeAlways.NiceLine.cbc44ed1f153e6ccee302de9dd89664ff" />
+<Entry OldName="MaximizeAlways.NiceLine._CaptionOrizontalAlign" NewName="MaximizeAlways.NiceLine.c10c5c96577263f579142464925b30f8f" />
+<Entry OldName="MaximizeAlways.TranslateHelper.rm" NewName="A.cb4103df82eb292bef83beccbb101c6d7.ce96deafe6e87a520f05330d4d55f1252" />
+<Entry OldName="MaximizeAlways.TranslateHelper.rm2" NewName="A.cb4103df82eb292bef83beccbb101c6d7.c7d0b66a1dc481ca1869ff0926f6dc7ea" />
+<Entry OldName="MaximizeAlways.WindowsManager.hImgSmall" NewName="MaximizeAlways.WindowsManager.c8e14e77a14feb0a712d9694ac293d986" />
+<Entry OldName="MaximizeAlways.WindowsManager.shinfo" NewName="MaximizeAlways.WindowsManager.cb868288399b03b1b31b755838ace99a6" />
+<Entry OldName="MaximizeAlways.WindowsManager.fa" NewName="MaximizeAlways.WindowsManager.c85f175539dc28431a38a8a71b2926207" />
+<Entry OldName="MaximizeAlways.WindowsManager.SW_SHOWMAXIMIZED" NewName="MaximizeAlways.WindowsManager.c455819910c9f53cff3b5f35d1ddcc324" />
+<Entry OldName="MaximizeAlways.WindowsManager.SW_MAXIMIZE" NewName="MaximizeAlways.WindowsManager.cc5af62c2eb5c359b6feb3307b065d16f" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_HIDE" NewName="MaximizeAlways.WindowsPlacementHelper.cfcabf3f18d23e5af3035977d19d18680" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_SHOWNORMAL" NewName="MaximizeAlways.WindowsPlacementHelper.cad13aa0ab54fa4d272b111564284a726" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_NORMAL" NewName="MaximizeAlways.WindowsPlacementHelper.cf41cd29b9403ce43ffc0899eb6e8207b" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_SHOWMINIMIZED" NewName="MaximizeAlways.WindowsPlacementHelper.c0080aa9ce9ba3d0970939f1c88fb3971" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_SHOWMAXIMIZED" NewName="MaximizeAlways.WindowsPlacementHelper.c455819910c9f53cff3b5f35d1ddcc324" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_MAXIMIZE" NewName="MaximizeAlways.WindowsPlacementHelper.cc5af62c2eb5c359b6feb3307b065d16f" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_SHOWNOACTIVATE" NewName="MaximizeAlways.WindowsPlacementHelper.c4504ea4d232e22cf7ec565522afaefc7" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_SHOW" NewName="MaximizeAlways.WindowsPlacementHelper.c210260439380bb02a1aa890c7c148b61" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_MINIMIZE" NewName="MaximizeAlways.WindowsPlacementHelper.c24aea3b16eab2ed5580736b6cd78d7da" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_SHOWMINNOACTIVE" NewName="MaximizeAlways.WindowsPlacementHelper.c3549c9214cd9babc2923a6f07b50b428" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_SHOWNA" NewName="MaximizeAlways.WindowsPlacementHelper.c607a45f96171608b5953d241fbbac372" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.SW_RESTORE" NewName="MaximizeAlways.WindowsPlacementHelper.c382433a4f79e600792b457391f47d748" />
+<Entry OldName="MaximizeAlways.Properties.Resources.resourceMan" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.cfa3b1fbd6475da0731bc3edf8ebad589" />
+<Entry OldName="MaximizeAlways.Properties.Resources.resourceCulture" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.cabe3f3ae57413331c502b24b5ee100a1" />
+<Entry OldName="MaximizeAlways.frmMain.GetAncestorFlags.value__" NewName="MaximizeAlways.frmMain.c16a8c283202a6a7439d5cb94445c561e.value__" />
+<Entry OldName="MaximizeAlways.frmMain.GetAncestorFlags.GetParent" NewName="MaximizeAlways.frmMain.c16a8c283202a6a7439d5cb94445c561e.c06c7fd74af41f985ef7b4d32869efc59" />
+<Entry OldName="MaximizeAlways.frmMain.GetAncestorFlags.GetRoot" NewName="MaximizeAlways.frmMain.c16a8c283202a6a7439d5cb94445c561e.cfc307ec81ef5c6bb169fa36ae4bf50b6" />
+<Entry OldName="MaximizeAlways.frmMain.GetAncestorFlags.GetRootOwner" NewName="MaximizeAlways.frmMain.c16a8c283202a6a7439d5cb94445c561e.ca3a0e8b2a5111d2d220a540705dc71e1" />
+<Entry OldName="MaximizeAlways.WindowsEnumeratorHelper.&lt;&gt;c__DisplayClass12_0.alOpenWindows" NewName="MaximizeAlways.WindowsEnumeratorHelper.c817fca71f281b0fc5445fc9bc6042762.c05e6e1b2c5fd5e2e03be635fc2bf044e" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.value__" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.value__" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.Hide" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c781123695c1e8be51a859c77d5adffb2" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ShowNormal" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c9b9e6201cf1eec4c0ca79ab64e11ea7c" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ShowMinimized" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c336bab82db49e8490368c5a12ac5de47" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ShowMaximized" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c110578ab13f78ada7c92ae293b32374f" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.Maximize" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.cbc5d68a30f6f6b9d901dc2d057dc8c52" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ShowNormalNoActivate" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.ce51b8abaf12536c62ec2086aa8a85d5e" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.Show" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.cf8c6416927a692caf3f81669dd377038" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.Minimize" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c1aae526c2e24144de60a328f406bba37" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ShowMinNoActivate" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c9f73ad6f86cfaaebed62bec0ab2ed769" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ShowNoActivate" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.cfdcabf2543890af208ee7250851c3d63" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.Restore" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c0afc51bed631e31a323396dfac0d4b26" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ShowDefault" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.cea0cee5f5fb21358b4f2a268cf8e9cbc" />
+<Entry OldName="MaximizeAlways.WindowsManager.WindowShowStyle.ForceMinimized" NewName="MaximizeAlways.WindowsManager.c9f30d7afe41c01c106e15e937388e7af.c16ce17a8bcde36cbfd86adc0672e92e8" />
+<Entry OldName="MaximizeAlways.WindowsManager.WINDOWPLACEMENT.length" NewName="MaximizeAlways.WindowsManager.cdd4d58d38abaa2031bb52a34071bb0ff.cedf07e4582c4cd0d1128f38fd54c4044" />
+<Entry OldName="MaximizeAlways.WindowsManager.WINDOWPLACEMENT.flags" NewName="MaximizeAlways.WindowsManager.cdd4d58d38abaa2031bb52a34071bb0ff.cc3b8afd4b8e5721d080b7b5125bc2398" />
+<Entry OldName="MaximizeAlways.WindowsManager.WINDOWPLACEMENT.showCmd" NewName="MaximizeAlways.WindowsManager.cdd4d58d38abaa2031bb52a34071bb0ff.cd9bb143b31245b5675e1d4a03b911db7" />
+<Entry OldName="MaximizeAlways.WindowsManager.WINDOWPLACEMENT.ptMinPosition" NewName="MaximizeAlways.WindowsManager.cdd4d58d38abaa2031bb52a34071bb0ff.c82065f0237084fc321b2a493dadd0f1b" />
+<Entry OldName="MaximizeAlways.WindowsManager.WINDOWPLACEMENT.ptMaxPosition" NewName="MaximizeAlways.WindowsManager.cdd4d58d38abaa2031bb52a34071bb0ff.c006956b3a50502c748ddec951bfe4571" />
+<Entry OldName="MaximizeAlways.WindowsManager.WINDOWPLACEMENT.rcNormalPosition" NewName="MaximizeAlways.WindowsManager.cdd4d58d38abaa2031bb52a34071bb0ff.cfd321a376a72d610394bc88abc584698" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper..ctor()" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90..ctor()" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper..cctor()" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90..cctor()" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.c40875d55575211deadb68b508e167467(String c00326cf26415958ae2a2784e7f99426b, StringBuilder c1d9898870cb0fdb147c548856c2f9918, UInt32 caaea89fe2ed03e6100d6679a5ef085f6, UInt32&amp; c2d55edf8b21021a381680f9d34e484a8, UInt32&amp; ceac2bc1e879d2957f4bba99e3be5311e, UInt32&amp; c037fd61dd19f5aafbfc060c90c20af70, StringBuilder cc76f42db304050a59bfb8e61e7dc8e64, UInt32 c7c354db2a823c09b36934c09ccc907cc)" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper.DisplayContextMenu()" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.c0dc8afa5dcad005eaac4a9e059fd00a2()" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper.HideContextMenu()" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.c178cce0590d86ec2c8c547337438bb21()" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper.WriteTest()" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.c7d37bd413cca8f14154bb3eadb2cb5de()" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper.ParseDate(String datestr)" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90.cfc3da090e8a7a1fc2514cb2ea2ad13e4(String c17b70912769c226245db5e62d4976afa)" />
+<Entry OldName="MaximizeAlways.ExceptionsHelper..ctor()" NewName="A.ca54b230e27e891a23f49504fad3dda47..ctor()" />
+<Entry OldName="MaximizeAlways.ExceptionsHelper.AddUnhandledExceptionHandlers()" NewName="A.ca54b230e27e891a23f49504fad3dda47.c681d49692251ee756e1872f910b1f0dd()" />
+<Entry OldName="MaximizeAlways.ExceptionsHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.ca54b230e27e891a23f49504fad3dda47.c2551ee636f08bc78784c01a4b029f401(Object cb5ffa78afd62506e98e5a8a721efc0b9, UnhandledExceptionEventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.ExceptionsHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.ca54b230e27e891a23f49504fad3dda47.cf57c0b7ec99638f44b604d815a8c1020(Object cb5ffa78afd62506e98e5a8a721efc0b9, ThreadExceptionEventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="MaximizeAlways.frmAbout.cae4a7266816092ab4e9299ddfbc959d3(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmAbout.ca4d186a79bebb9fa53117c8c3e4c1416(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="MaximizeAlways.frmAbout.cea9ec2b82ec74c028e0a3e4130110202(Object cb5ffa78afd62506e98e5a8a721efc0b9, LinkLabelLinkClickedEventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="MaximizeAlways.frmAbout.cb4570341ca5cf753e3d8e37e5cd61c24(Object cb5ffa78afd62506e98e5a8a721efc0b9, LinkLabelLinkClickedEventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmAbout.c9a9d4fc50fdaf069529d89de06a83241(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmAbout.c66cfd663085d8f058aac3dacd121fc8b(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAbout.InitializeComponent()" NewName="MaximizeAlways.frmAbout.c5640c89dd9d48e00d4b867ddc8f5ccca()" />
+<Entry OldName="MaximizeAlways.frmAdeia.btnOK_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmAdeia.c6696bfb61a9e89d58ad3ce724a7cf314(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAdeia.btnExit_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmAdeia.ca4516a5e25a05fdf68962ce95076ab28(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAdeia.frmAdeia_Load(Object sender, EventArgs e)" NewName="MaximizeAlways.frmAdeia.c18896daf816d665b99a75940269c72e5(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmAdeia.InitializeComponent()" NewName="MaximizeAlways.frmAdeia.c5640c89dd9d48e00d4b867ddc8f5ccca()" />
+<Entry OldName="MaximizeAlways.frmMain.RefreshSettings()" NewName="MaximizeAlways.frmMain.cfd89abc38348348fe8ecd04a4ee5ad64()" />
+<Entry OldName="MaximizeAlways.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c1914b5a663f0fff0d11c9b0b2745a85d(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.launchToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c6128c4feeb405dff90532de3df0dd2e4(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c05637915e32f59371882cfb9203f8f6b(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.frmMain_Activated(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c7ceb211d35d2279ed9fb49f609ec6455(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.timer1_Tick(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.cd48fc7ced910b01f7b46dca42caac3bb(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.cmiExit_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.cd86ac788175b251c235d005a4e50e523(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.contextMenuStrip1_Opening(Object sender, CancelEventArgs e)" NewName="MaximizeAlways.frmMain.ca440e129a85aa1e453da58ad2c02cb2d(Object cb5ffa78afd62506e98e5a8a721efc0b9, CancelEventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.MinWindow_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.ccbd1f7110bb3a0921a027a2ed60d42a1(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.cmiOptions_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c4bfe54c13c35d198942c3eca6731105d(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.cmiMinAll_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.cbe8f561bcdf55cfbea7824ba8873f8f5(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.helpToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c0f8c56bed3306dcc96d50f52309807ec(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.timer2_Tick(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c30b0cda59eb3463a64ca1197a73b4d7f(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.timer1_Tick_1(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c3fbc445a13738c1c273584b5ce072c74(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.timer2_Tick_1(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.cbb1852b41650102a888e45a26d64bb1a(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.timer3_Tick(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.c54ba3209ea218a64d1fc5908933cc3cf(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.notifyIcon1_MouseDoubleClick(Object sender, MouseEventArgs e)" NewName="MaximizeAlways.frmMain.c32fa0c42538f0cee3e6af9c19781365d(Object cb5ffa78afd62506e98e5a8a721efc0b9, MouseEventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.cmiMinWindows_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmMain.cddaccb4a8152ee9d0fe468063da64892(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.SetWinEventHook(UInt32 eventMin, UInt32 eventMax, IntPtr hmodWinEventProc, WinEventProc lpfnWinEventProc, Int32 idProcess, Int32 idThread, UInt32 dwflags)" NewName="MaximizeAlways.frmMain.c3f3c82f528da47aaff7d48beb517fea0(UInt32 cfd44e3830cfbd360e19e6b71d8fa0808, UInt32 c5e0046fe0861ef49c61969a0212b54d2, IntPtr cbd713c8dd328b76258be07884eeb1791, c2232afbaae22c02983f5aab2cae8098b c01d1789e6a7efd17320be2203911c801, Int32 c6cc44f63e103cc37ca083081a26d08b2, Int32 c254d3f1eeff237bfbcebaedba7c9a2c7, UInt32 cc1806b34423eee8d1cea856cc3291ca9)" />
+<Entry OldName="MaximizeAlways.frmMain.UnhookWinEvent(IntPtr hWinEventHook)" NewName="MaximizeAlways.frmMain.c71110a3c56b7fa89faa1798997c02754(IntPtr ce0211bddb1c410d352bd3ba7f843966a)" />
+<Entry OldName="MaximizeAlways.frmMain.GetWindowLongPtr(IntPtr hWnd, Int32 nIndex)" NewName="MaximizeAlways.frmMain.c97397fa8f2e155ac692c4f70440052c2(IntPtr c3681ee8a24744cd6d781139e7f50c84c, Int32 c2415dca19f52338f916d45072d83073e)" />
+<Entry OldName="MaximizeAlways.frmMain.GetAncestor(IntPtr hwnd, GetAncestorFlags flags)" NewName="MaximizeAlways.frmMain.cea43775c8f05a54fe36b9abe3fcab4ab(IntPtr c1e20df91e4a7fd89401b96af53450ef1, c16a8c283202a6a7439d5cb94445c561e cc3b8afd4b8e5721d080b7b5125bc2398)" />
+<Entry OldName="MaximizeAlways.frmMain.GetWindow(IntPtr hWnd, Int32 uCmd)" NewName="MaximizeAlways.frmMain.cfcb4c4e79ed09ac7fb8a340a9a529815(IntPtr c3681ee8a24744cd6d781139e7f50c84c, Int32 c2a9b46a573ac7159462e53037d2e4023)" />
+<Entry OldName="MaximizeAlways.frmMain.EventCallback(IntPtr hWinEventHook, UInt32 iEvent, IntPtr hWnd, Int32 idObject, Int32 idChild, Int32 dwEventThread, Int32 dwmsEventTime)" NewName="MaximizeAlways.frmMain.c3d8fe9121957071143e4a795d24b1d8d(IntPtr ce0211bddb1c410d352bd3ba7f843966a, UInt32 c9a16bb101c236ddb51eda4fef5cf376b, IntPtr c3681ee8a24744cd6d781139e7f50c84c, Int32 c7d61dc441069508a7404a17f0e3a1d92, Int32 c9c10947d89fb5168d921cdf9538f2a64, Int32 cfecb846d2f768e163cd2a985dfd9ed74, Int32 c540a3190c1f5db0c554b73d37c4afcc6)" />
+<Entry OldName="MaximizeAlways.frmMain.GetWindowText(IntPtr hWnd, StringBuilder lpString, Int32 nMaxCount)" NewName="MaximizeAlways.frmMain.c8af7dc23d1cf1a553fbd7d61c9b373e2(IntPtr c3681ee8a24744cd6d781139e7f50c84c, StringBuilder c21df8a6683176415d14e09286b9b98ba, Int32 cede49b4409ead0d405a72d17de6375c0)" />
+<Entry OldName="MaximizeAlways.frmMain.GetWindowTextLength(IntPtr hWnd)" NewName="MaximizeAlways.frmMain.cf7ea10c0687e1be22bcecab2ea96feac(IntPtr c3681ee8a24744cd6d781139e7f50c84c)" />
+<Entry OldName="MaximizeAlways.frmMain.IsWindowVisible(IntPtr hWnd)" NewName="MaximizeAlways.frmMain.c2991d71e98475397dd54ec4a7c398855(IntPtr c3681ee8a24744cd6d781139e7f50c84c)" />
+<Entry OldName="MaximizeAlways.frmMain.MaximizeAppWindow(IntPtr hWnd)" NewName="MaximizeAlways.frmMain.c9c1015b57393b99701e0b125dd6c3bb9(IntPtr c3681ee8a24744cd6d781139e7f50c84c)" />
+<Entry OldName="MaximizeAlways.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="MaximizeAlways.frmMain.c23c38c32dde93dedac1d3afa4bdb8696(Object cb5ffa78afd62506e98e5a8a721efc0b9, FormClosingEventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmMain.InitializeComponent()" NewName="MaximizeAlways.frmMain.c5640c89dd9d48e00d4b867ddc8f5ccca()" />
+<Entry OldName="MaximizeAlways.frmPurchase.frmPurchase_Load(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.c244c006b780f9c9a2b3bc8b5b7f375e0(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnRegister_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.c66cfd663085d8f058aac3dacd121fc8b(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.timContinue_Tick(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.c77550bc2f21b4add5a0cd1ad8c321b4c(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnClose_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.ca4d186a79bebb9fa53117c8c3e4c1416(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnBuy_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.c9a9d4fc50fdaf069529d89de06a83241(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnRegister_Click_1(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.c825f7018ea6d254796e5dcb6087b7d77(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.btnExit_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.ca4516a5e25a05fdf68962ce95076ab28(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.lblMsg_Click(Object sender, EventArgs e)" NewName="MaximizeAlways.frmPurchase.c349eaa626685c606a895163ea50dc595(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.frmPurchase.InitializeComponent()" NewName="MaximizeAlways.frmPurchase.c5640c89dd9d48e00d4b867ddc8f5ccca()" />
+<Entry OldName="MaximizeAlways.FuzzyMatch..ctor()" NewName="A.cbfa82fbdc388ad48ff9eda9932871195..ctor()" />
+<Entry OldName="MaximizeAlways.FuzzyMatch.ExtractPreviousFuzzyMatch(String helpcolumn)" NewName="A.cbfa82fbdc388ad48ff9eda9932871195.c62d67b035283da2138474559fdd74283(String cc499dbbdf7f28cfc01d99fb02059d047)" />
+<Entry OldName="MaximizeAlways.FuzzyMatch.SetFuzzyHelpColumnText(Int32 fuzzypercent, String helpcolumn)" NewName="A.cbfa82fbdc388ad48ff9eda9932871195.c5be2ea81103af770c373960012b1e653(Int32 c5c0e5785a71d90cc4ff6ad397df1ed07, String cc499dbbdf7f28cfc01d99fb02059d047)" />
+<Entry OldName="MaximizeAlways.FuzzyMatch.IsFuzzyMatchForReport(String sNew, String sOld, Int32 percent_fuzzy_from, Int32 percent_fuzzy_to)" NewName="A.cbfa82fbdc388ad48ff9eda9932871195.c981330909342424f93be53c97df3abbe(String cef4eb820d5c023c040dfdcebab56d031, String c188909ec7e98563a619671d77d6f4ddb, Int32 c0a81092a99db2fbb1f47aef82f1ed84c, Int32 cb0b16886a00881f990f63e302164b372)" />
+<Entry OldName="MaximizeAlways.FuzzyMatch.IsFuzzyMatch(String sNew, String sOld, String helpcolumn)" NewName="A.cbfa82fbdc388ad48ff9eda9932871195.c5a4391d91150d0b2a49b890524cc05ae(String cef4eb820d5c023c040dfdcebab56d031, String c188909ec7e98563a619671d77d6f4ddb, String cc499dbbdf7f28cfc01d99fb02059d047)" />
+<Entry OldName="MaximizeAlways.Levenshtein.Minimum(Int32 a, Int32 b, Int32 c)" NewName="MaximizeAlways.Levenshtein.c4d579a8b91f6cb32ac20bf40997d840b(Int32 c91f1d4cb9e9c8ed5a06e3743c619183e, Int32 cc7ee781868d190af1aef9118b7455e7d, Int32 c312cc28fae1e88790ce8a4cf06259299)" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper..ctor()" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd..ctor()" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper..cctor()" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd..cctor()" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd.c40875d55575211deadb68b508e167467(String c00326cf26415958ae2a2784e7f99426b, StringBuilder c1d9898870cb0fdb147c548856c2f9918, UInt32 caaea89fe2ed03e6100d6679a5ef085f6, UInt32&amp; c2d55edf8b21021a381680f9d34e484a8, UInt32&amp; ceac2bc1e879d2957f4bba99e3be5311e, UInt32&amp; c037fd61dd19f5aafbfc060c90c20af70, StringBuilder cc76f42db304050a59bfb8e61e7dc8e64, UInt32 c7c354db2a823c09b36934c09ccc907cc)" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper.GeneratePreviewItems()" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd.c4d930d3db153557046247f11261a814e()" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper.ParseDate(String datestr)" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd.cfc3da090e8a7a1fc2514cb2ea2ad13e4(String c17b70912769c226245db5e62d4976afa)" />
+<Entry OldName="MaximizeAlways.InputModeHelper..ctor()" NewName="A.ceefa61cc52711edc4b88916f62552848..ctor()" />
+<Entry OldName="MaximizeAlways.InputModeHelper..cctor()" NewName="A.ceefa61cc52711edc4b88916f62552848..cctor()" />
+<Entry OldName="MaximizeAlways.InputModeHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.ceefa61cc52711edc4b88916f62552848.c40875d55575211deadb68b508e167467(String c00326cf26415958ae2a2784e7f99426b, StringBuilder c1d9898870cb0fdb147c548856c2f9918, UInt32 caaea89fe2ed03e6100d6679a5ef085f6, UInt32&amp; c2d55edf8b21021a381680f9d34e484a8, UInt32&amp; ceac2bc1e879d2957f4bba99e3be5311e, UInt32&amp; c037fd61dd19f5aafbfc060c90c20af70, StringBuilder cc76f42db304050a59bfb8e61e7dc8e64, UInt32 c7c354db2a823c09b36934c09ccc907cc)" />
+<Entry OldName="MaximizeAlways.InputModeHelper.AnalyzeSearch()" NewName="A.ceefa61cc52711edc4b88916f62552848.cc570d31fa600025a410a5b4d6379aa79()" />
+<Entry OldName="MaximizeAlways.InputModeHelper.Bin2Hex(Byte[] bin)" NewName="A.ceefa61cc52711edc4b88916f62552848.c9fe3148292f7fc138c5916ad7cc083f9(Byte[] c657644adf2138a9a8d54d9406ea8d7d4)" />
+<Entry OldName="MaximizeAlways.MessageHelper.RegisterWindowMessage(String lpString)" NewName="MaximizeAlways.MessageHelper.cf70493730e54007c9a81431ed59da782(String c21df8a6683176415d14e09286b9b98ba)" />
+<Entry OldName="MaximizeAlways.MessageHelper.SetForegroundWindow(IntPtr hWnd)" NewName="MaximizeAlways.MessageHelper.c1a2dfe56b4701afafb513adc11e381b2(IntPtr c3681ee8a24744cd6d781139e7f50c84c)" />
+<Entry OldName="MaximizeAlways.MessageHelper2.RegisterWindowMessage(String lpString)" NewName="MaximizeAlways.MessageHelper2.cf70493730e54007c9a81431ed59da782(String c21df8a6683176415d14e09286b9b98ba)" />
+<Entry OldName="MaximizeAlways.MiscHelper..ctor()" NewName="A.c5f187d2e5e3b0b54548e3c3f9d63a227..ctor()" />
+<Entry OldName="MaximizeAlways.MiscHelper..cctor()" NewName="A.c5f187d2e5e3b0b54548e3c3f9d63a227..cctor()" />
+<Entry OldName="MaximizeAlways.MiscHelper.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c5f187d2e5e3b0b54548e3c3f9d63a227.ca30145a011caf7c457b1d43e5cc0c400(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.MiscHelper.ParseDate(String datestr)" NewName="A.c5f187d2e5e3b0b54548e3c3f9d63a227.cfc3da090e8a7a1fc2514cb2ea2ad13e4(String c17b70912769c226245db5e62d4976afa)" />
+<Entry OldName="MaximizeAlways.Module..ctor()" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515..ctor()" />
+<Entry OldName="MaximizeAlways.Module..cctor()" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515..cctor()" />
+<Entry OldName="MaximizeAlways.Module.ShowMessage(String msg)" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.c0b875036d6a3489dad23127620fad8e1(String c92a67808a40faf70e04acd4ce59f158d)" />
+<Entry OldName="MaximizeAlways.Module.ShowError(Exception ex)" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.ca8bef0b82be30327bd05e0591fd5bd00(Exception c2defb7ce3ef2b215bb171a118364fd3c)" />
+<Entry OldName="MaximizeAlways.Module.ShowError(String msg)" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.ca8bef0b82be30327bd05e0591fd5bd00(String c92a67808a40faf70e04acd4ce59f158d)" />
+<Entry OldName="MaximizeAlways.Module.ShowError(String msg, Exception ex)" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.ca8bef0b82be30327bd05e0591fd5bd00(String c92a67808a40faf70e04acd4ce59f158d, Exception c2defb7ce3ef2b215bb171a118364fd3c)" />
+<Entry OldName="MaximizeAlways.Module.DeleteApplicationSettingsFile()" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515.cca8c3d7418097fb59f07526981478c92()" />
+<Entry OldName="MaximizeAlways.NiceLine.InitializeComponent()" NewName="MaximizeAlways.NiceLine.c5640c89dd9d48e00d4b867ddc8f5ccca()" />
+<Entry OldName="MaximizeAlways.ProcessFilenameRetriever.GetWindowThreadProcessId(IntPtr hWnd, UInt32&amp; lpdwProcessId)" NewName="MaximizeAlways.ProcessFilenameRetriever.c80b59405cf04042004eb6c9e756918d7(IntPtr c3681ee8a24744cd6d781139e7f50c84c, UInt32&amp; c611f25bf2a1d028c5826f788e57ccf57)" />
+<Entry OldName="MaximizeAlways.ProcessFilenameRetriever.GetExecutablePathAboveVista(Int32 ProcessId)" NewName="MaximizeAlways.ProcessFilenameRetriever.ce2d33852733c1e9f279c4c6e11fe4cc3(Int32 c67a12a0be5eebc63eb69e577fc168f51)" />
+<Entry OldName="MaximizeAlways.ProcessFilenameRetriever.QueryFullProcessImageName(IntPtr hprocess, Int32 dwFlags, StringBuilder lpExeName, Int32&amp; size)" NewName="MaximizeAlways.ProcessFilenameRetriever.c8cdf7412d8f36056cf0d1b01000eb6ab(IntPtr c0440b4c53e866aefe944943ae08daebb, Int32 c4907db7fdbfc8a1d5feec91a5d552022, StringBuilder c64b3fbf2557d6e817e18456f574fd2ab, Int32&amp; c8f5b374542646a7623d775a5567b5c61)" />
+<Entry OldName="MaximizeAlways.ProcessFilenameRetriever.OpenProcess(ProcessAccessFlags dwDesiredAccess, Boolean bInheritHandle, Int32 dwProcessId)" NewName="MaximizeAlways.ProcessFilenameRetriever.cabdf4ad3021b8105e5d77ffbc14fab10(ProcessAccessFlags c8c0f041df335b8ca33baee7be16fad0f, Boolean c01a152e92223900757f7866b67e756d5, Int32 c18fbfaf53d363179420190bb6ab9868f)" />
+<Entry OldName="MaximizeAlways.ProcessFilenameRetriever.CloseHandle(IntPtr hHandle)" NewName="MaximizeAlways.ProcessFilenameRetriever.cc25e306fd8abedf664df6f09e838566f(IntPtr cf1b4da0a27ce0d92c387a3d04ca670cb)" />
+<Entry OldName="MaximizeAlways.Program.Main(String[] args)" NewName="A.ce00b3e3b3242ae47eeef169e5779c6dc.ce573cd8cb142c7af2961ffbc4e1f5029(String[] c0f11d39e82b90b248a770645293defbf)" />
+<Entry OldName="MaximizeAlways.Program.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.ce00b3e3b3242ae47eeef169e5779c6dc.ca30145a011caf7c457b1d43e5cc0c400(Object cb5ffa78afd62506e98e5a8a721efc0b9, EventArgs cc30340fec5084355d11d781e39a4dfc5)" />
+<Entry OldName="MaximizeAlways.RegistryHelper2..ctor()" NewName="A.c27e6f40ebab749167b02dbe19c80b66e..ctor()" />
+<Entry OldName="MaximizeAlways.RegistryHelper2.GetKeyValue(String AppRegKey, String keystr)" NewName="A.c27e6f40ebab749167b02dbe19c80b66e.c370e01be5c79a0cdadd7f3f61c29c620(String ca419149733eb42fc7eb6d32386d00f1c, String c7b1772776e0e4e9f6386f57adf7cc3dc)" />
+<Entry OldName="MaximizeAlways.RegistryHelper2.SetKeyValue2(String AppRegKey, String keystr, String keyvalue)" NewName="A.c27e6f40ebab749167b02dbe19c80b66e.c5d54e9dc35b445541054a76828a46542(String ca419149733eb42fc7eb6d32386d00f1c, String c7b1772776e0e4e9f6386f57adf7cc3dc, String c03e90490856054d36b148efc5189f65d)" />
+<Entry OldName="MaximizeAlways.RegistryHelper2.SetKeyValue(String AppRegKey, String keystr, String keyvalue)" NewName="A.c27e6f40ebab749167b02dbe19c80b66e.cfbc50e5f771c47fa9986420351c1e778(String ca419149733eb42fc7eb6d32386d00f1c, String c7b1772776e0e4e9f6386f57adf7cc3dc, String c03e90490856054d36b148efc5189f65d)" />
+<Entry OldName="MaximizeAlways.TranslateHelper..ctor()" NewName="A.cb4103df82eb292bef83beccbb101c6d7..ctor()" />
+<Entry OldName="MaximizeAlways.TranslateHelper..cctor()" NewName="A.cb4103df82eb292bef83beccbb101c6d7..cctor()" />
+<Entry OldName="MaximizeAlways.TranslateHelper.Translate(String str)" NewName="A.cb4103df82eb292bef83beccbb101c6d7.c22bac43df2d695468fb9418afa23aff3(String cce5ac870069c8782a4b29fd30ef01f76)" />
+<Entry OldName="MaximizeAlways.WindowsEnumeratorHelper.WindowFromPoint(POINT Point)" NewName="MaximizeAlways.WindowsEnumeratorHelper.c769217a95feccedf7b5e781349df32fd(POINT cc790138e0ea7bac37060fabff5cf8022)" />
+<Entry OldName="MaximizeAlways.WindowsManager.SetForegroundWindowNative(IntPtr hWnd)" NewName="MaximizeAlways.WindowsManager.c6e018c910e22ff7eb2ac51ba3bcaf153(IntPtr c3681ee8a24744cd6d781139e7f50c84c)" />
+<Entry OldName="MaximizeAlways.WindowsManager.ShowWindow(IntPtr hWnd, WindowShowStyle nCmdShow)" NewName="MaximizeAlways.WindowsManager.ca28ff940b57ba64f154f56990f2641b0(IntPtr c3681ee8a24744cd6d781139e7f50c84c, c9f30d7afe41c01c106e15e937388e7af c4ae40da7e20ba73c4e408f40708a9f1a)" />
+<Entry OldName="MaximizeAlways.WindowsManager.MoveWindow(IntPtr hwnd, Int32 X, Int32 Y, Int32 nWidth, Int32 nHeight, Boolean bRepaint)" NewName="MaximizeAlways.WindowsManager.c0fd893ba28900c133fc930990ed435a2(IntPtr c1e20df91e4a7fd89401b96af53450ef1, Int32 cc1e902abed8a24c13155f90406f6c4b4, Int32 c15d0c3523dedeec5c550ed22f1e59fda, Int32 cf7cb3fd827455172c444f68f3adac430, Int32 c74713885421e8d018dd27874768d0252, Boolean cf2b0198f5d997388c9c853e407029c85)" />
+<Entry OldName="MaximizeAlways.WindowsManager.GetWindowRect(IntPtr hWnd, RECT&amp; rect)" NewName="MaximizeAlways.WindowsManager.cb595132b848ecb742a20d1dce1f12171(IntPtr c3681ee8a24744cd6d781139e7f50c84c, RECT&amp; caeb9ffed0ea6d487b69af59bdded6bfe)" />
+<Entry OldName="MaximizeAlways.WindowsManager.GetWindowPlacement(IntPtr hWnd, WINDOWPLACEMENT&amp; lpwndpl)" NewName="MaximizeAlways.WindowsManager.cde585f952654b1737b00c31597951ea7(IntPtr c3681ee8a24744cd6d781139e7f50c84c, cdd4d58d38abaa2031bb52a34071bb0ff&amp; c02ba712437a2f7327ecc6d18de113c74)" />
+<Entry OldName="MaximizeAlways.WindowsManager.SetWindowPlacement(IntPtr hWnd, WINDOWPLACEMENT&amp; lpwndpl)" NewName="MaximizeAlways.WindowsManager.cefa5818336ca5840369ae9a58066cd47(IntPtr c3681ee8a24744cd6d781139e7f50c84c, cdd4d58d38abaa2031bb52a34071bb0ff&amp; c02ba712437a2f7327ecc6d18de113c74)" />
+<Entry OldName="MaximizeAlways.WindowsManager.SetParent(IntPtr hWndChild, IntPtr hWndNewParent)" NewName="MaximizeAlways.WindowsManager.ce9533cce5b846dab691d1753d821458f(IntPtr c0aed5e0eb10b34d88c8c8931efea6b8b, IntPtr cea4f13aa487ef8c2b253af47fe237b3c)" />
+<Entry OldName="MaximizeAlways.WindowsManager.ShowWindow(IntPtr hWnd, Int32 nCmdShow)" NewName="MaximizeAlways.WindowsManager.ca28ff940b57ba64f154f56990f2641b0(IntPtr c3681ee8a24744cd6d781139e7f50c84c, Int32 c4ae40da7e20ba73c4e408f40708a9f1a)" />
+<Entry OldName="MaximizeAlways.WindowsPlacementHelper.GetWindowPlacement(IntPtr hWnd, WINDOWPLACEMENT&amp; lpwndpl)" NewName="MaximizeAlways.WindowsPlacementHelper.cde585f952654b1737b00c31597951ea7(IntPtr c3681ee8a24744cd6d781139e7f50c84c, WINDOWPLACEMENT&amp; c02ba712437a2f7327ecc6d18de113c74)" />
+<Entry OldName="MaximizeAlways.Properties.Resources..ctor()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f..ctor()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_ResourceManager()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_ResourceManager()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_Culture()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_Culture()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.set_Culture(CultureInfo value)" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get__4dots_logo_official()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get__4dots_logo_official()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_about()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_about()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_add()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_add()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_add1()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_add1()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_arrow_down_green()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_arrow_down_green()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_arrow_left_blue()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_arrow_left_blue()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_arrow_right_blue()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_arrow_right_blue()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_arrow_up_green()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_arrow_up_green()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_brush2()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_brush2()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_brush4()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_brush4()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_bullet_ball_glass_blue()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_bullet_ball_glass_green()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_bullet_ball_glass_red()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_bullet_ball_glass_yellow()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_cart_icon_b_24()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_cart_icon_b_24()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_check()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_check()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_copy()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_copy()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_cut()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_cut()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_delete()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_delete()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_delete1()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_delete1()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_disk_blue()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_disk_blue()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_document_preferences()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_document_preferences()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_earth()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_earth()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_edit()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_edit()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_exit()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_exit()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_exit1()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_exit1()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_facebook_24()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_facebook_24()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_facebook_32()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_facebook_32()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_flash()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_flash()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_flash1()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_flash1()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_folder()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_folder()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_folder_add()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_folder_add()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_folder1()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_folder1()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_googleplus_24()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_googleplus_24()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_help2()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_help2()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_import1()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_import1()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_information()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_information()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_key1()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_key1()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_linkedin_24()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_linkedin_24()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_mail()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_mail()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_maximize_always_48()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_maximize_always_48()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_media_pause()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_media_pause()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_media_stop()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_media_stop()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_navigate_beginning()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_navigate_beginning()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_navigate_end()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_navigate_end()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_preferences()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_preferences()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_twitter_24()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_twitter_24()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_twitter_32()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_twitter_32()" />
+<Entry OldName="MaximizeAlways.Properties.Resources.get_warning()" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f.get_warning()" />
+<Entry OldName="MaximizeAlways.frmMain.WinEventProc..ctor(Object object, IntPtr method)" NewName="MaximizeAlways.frmMain.c2232afbaae22c02983f5aab2cae8098b..ctor(Object object, IntPtr method)" />
+<Entry OldName="MaximizeAlways.frmMain.WinEventProc.Invoke(IntPtr hWinEventHook, UInt32 iEvent, IntPtr hWnd, Int32 idObject, Int32 idChild, Int32 dwEventThread, Int32 dwmsEventTime)" NewName="MaximizeAlways.frmMain.c2232afbaae22c02983f5aab2cae8098b.Invoke(IntPtr hWinEventHook, UInt32 iEvent, IntPtr hWnd, Int32 idObject, Int32 idChild, Int32 dwEventThread, Int32 dwmsEventTime)" />
+<Entry OldName="MaximizeAlways.frmMain.WinEventProc.BeginInvoke(IntPtr hWinEventHook, UInt32 iEvent, IntPtr hWnd, Int32 idObject, Int32 idChild, Int32 dwEventThread, Int32 dwmsEventTime, AsyncCallback callback, Object object)" NewName="MaximizeAlways.frmMain.c2232afbaae22c02983f5aab2cae8098b.BeginInvoke(IntPtr hWinEventHook, UInt32 iEvent, IntPtr hWnd, Int32 idObject, Int32 idChild, Int32 dwEventThread, Int32 dwmsEventTime, AsyncCallback callback, Object object)" />
+<Entry OldName="MaximizeAlways.frmMain.WinEventProc.EndInvoke(IAsyncResult result)" NewName="MaximizeAlways.frmMain.c2232afbaae22c02983f5aab2cae8098b.EndInvoke(IAsyncResult result)" />
+<Entry OldName="MaximizeAlways.WindowsEnumeratorHelper.&lt;&gt;c__DisplayClass12_0..ctor()" NewName="MaximizeAlways.WindowsEnumeratorHelper.c817fca71f281b0fc5445fc9bc6042762..ctor()" />
+<Entry OldName="MaximizeAlways.WindowsEnumeratorHelper.&lt;&gt;c__DisplayClass12_0.&lt;GetOpenWindows&gt;b__0(IntPtr hWnd, Int32 lParam)" NewName="MaximizeAlways.WindowsEnumeratorHelper.c817fca71f281b0fc5445fc9bc6042762.c234bf2654fc7fca71294bf2fae086d5a(IntPtr c3681ee8a24744cd6d781139e7f50c84c, Int32 ce0f2616244ab597ccd013e849f5b5475)" />
+<Entry OldName="MaximizeAlways.ContextMenuHelper" NewName="A.c6ce47c0a24cafedbe19b362b2e283d90" />
+<Entry OldName="MaximizeAlways.ExceptionsHelper" NewName="A.ca54b230e27e891a23f49504fad3dda47" />
+<Entry OldName="MaximizeAlways.frmMain+WinEventProc" NewName="MaximizeAlways.frmMain+c2232afbaae22c02983f5aab2cae8098b" />
+<Entry OldName="MaximizeAlways.frmMain+GetAncestorFlags" NewName="MaximizeAlways.frmMain+c16a8c283202a6a7439d5cb94445c561e" />
+<Entry OldName="MaximizeAlways.FuzzyMatch" NewName="A.cbfa82fbdc388ad48ff9eda9932871195" />
+<Entry OldName="MaximizeAlways.ImagesViewHelper" NewName="A.cf3cbaf21edc9c08f5b7768f4e47292dd" />
+<Entry OldName="MaximizeAlways.InputModeHelper" NewName="A.ceefa61cc52711edc4b88916f62552848" />
+<Entry OldName="MaximizeAlways.MiscHelper" NewName="A.c5f187d2e5e3b0b54548e3c3f9d63a227" />
+<Entry OldName="MaximizeAlways.Module" NewName="A.c40c620ca8f8e98d52fe52a3dfc612515" />
+<Entry OldName="MaximizeAlways.Program" NewName="A.ce00b3e3b3242ae47eeef169e5779c6dc" />
+<Entry OldName="MaximizeAlways.RegistryHelper2" NewName="A.c27e6f40ebab749167b02dbe19c80b66e" />
+<Entry OldName="MaximizeAlways.TranslateHelper" NewName="A.cb4103df82eb292bef83beccbb101c6d7" />
+<Entry OldName="MaximizeAlways.WindowsEnumeratorHelper+&lt;&gt;c__DisplayClass12_0" NewName="MaximizeAlways.WindowsEnumeratorHelper+c817fca71f281b0fc5445fc9bc6042762" />
+<Entry OldName="MaximizeAlways.WindowsManager+WindowShowStyle" NewName="MaximizeAlways.WindowsManager+c9f30d7afe41c01c106e15e937388e7af" />
+<Entry OldName="MaximizeAlways.WindowsManager+WINDOWPLACEMENT" NewName="MaximizeAlways.WindowsManager+cdd4d58d38abaa2031bb52a34071bb0ff" />
+<Entry OldName="MaximizeAlways.Properties.Resources" NewName="A.c9b0c3ccd77cf5c3924eaa88b6b93b16f" />
+<Assembly Name="MaximizeAlways"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="MaximizeAlways.ContextMenuHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663301" Name="DisplayContextMenu" Variables="sfilecontents;init_filepath;txt;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;reg_key;email;expired;myvl;kx;ky;userkey;encrypted_kleidi_xristi;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;exf;V_30;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_55;ex;V_57;V_58;V_59;V_60;fm;V_62;V_63;ex_l3;" ParamCnt="0" />
+<Method Token="100663302" Name="HideContextMenu" Variables="kx;ky;sfilecontents;myar;elements;reg_key;email;dtfrom;dtlast;expired;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;V_23;f;f;V_26;V_27;V_28;" ParamCnt="0" />
+<Method Token="100663303" Name="WriteTest" Variables="sfilecontents;data;key;iv;byteData;enc;tdes;ict;ex;sw;" ParamCnt="0" />
+<Method Token="100663304" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67108865" Name="DtFrom" />
+<Field Token="67108866" Name="DtLast" />
+<Field Token="67108867" Name="DtTo" />
+<Type Token="33554436" Name="MaximizeAlways.ExceptionsHelper" />
+<Method Token="100663306" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663307" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663308" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663309" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554437" Name="MaximizeAlways.frmAbout" />
+<Method Token="100663310" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663311" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663312" Name="frmAbout_Load" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663313" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663314" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663315" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663316" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663317" Name="btnRegister_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663318" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663319" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108868" Name="lblf" />
+<Field Token="67108869" Name="LDT" />
+<Field Token="67108870" Name="components" />
+<Field Token="67108871" Name="lblAbout" />
+<Field Token="67108872" Name="btnClose" />
+<Field Token="67108873" Name="pictureBox1" />
+<Field Token="67108874" Name="linkLabel1" />
+<Field Token="67108875" Name="label1" />
+<Field Token="67108876" Name="label2" />
+<Field Token="67108877" Name="linkLabel2" />
+<Field Token="67108878" Name="niceLine1" />
+<Field Token="67108879" Name="niceLine3" />
+<Field Token="67108880" Name="label3" />
+<Field Token="67108881" Name="ullProductWebpage" />
+<Field Token="67108882" Name="btnBuy" />
+<Field Token="67108883" Name="lblRegistered" />
+<Field Token="67108884" Name="btnRegister" />
+<Field Token="67108885" Name="niceLine2" />
+<Field Token="67108886" Name="label4" />
+<Field Token="67108887" Name="lblLicenseKey" />
+<Field Token="67108888" Name="niceLine4" />
+<Type Token="33554439" Name="MaximizeAlways.frmAdeia" />
+<Method Token="100663326" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663328" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663329" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663330" Name="frmAdeia_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663331" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663332" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108890" Name="components" />
+<Field Token="67108891" Name="label1" />
+<Field Token="67108892" Name="btnOK" />
+<Field Token="67108893" Name="label2" />
+<Field Token="67108894" Name="txtEmail" />
+<Field Token="67108895" Name="btnExit" />
+<Field Token="67108896" Name="lblAppName" />
+<Type Token="33554440" Name="MaximizeAlways.frmMain" />
+<Method Token="100663333" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663335" Name="RefreshSettings" Variables="this;key;configured_once;valn;V_3;k;V_5;V_6;ex;V_8;" ParamCnt="1" />
+<Method Token="100663336" Name="frmMain_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663337" Name="launchToolStripMenuItem_Click" Variables="this;sender;e;V_0;handle;n;ind;notf;cms;V_6;V_7;ti;V_9;V_10;V_11;V_12;V_13;" ParamCnt="3" />
+<Method Token="100663338" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;ts;ind;procs;V_3;k;V_5;" ParamCnt="3" />
+<Method Token="100663339" Name="frmMain_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663340" Name="timer1_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;" ParamCnt="3" />
+<Method Token="100663341" Name="cmiExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663342" Name="contextMenuStrip1_Opening" Variables="this;sender;e;procs;al;k;V_3;procfi;procname;procexe;ti;j;V_9;a;V_11;V_12;V_13;" ParamCnt="3" />
+<Method Token="100663343" Name="MinWindow_Click" Variables="this;sender;e;ti;procname;procs;procexe;found;key;key2;key3;valn;V_9;a;V_11;V_12;V_13;V_14;k;keyval;V_17;V_18;V_19;V_20;k;V_22;V_23;ex;" ParamCnt="3" />
+<Method Token="100663344" Name="WndProc" Variables="this;m;V_0;mystr;mytype;arg;V_4;" ParamCnt="2" />
+<Method Token="100663345" Name="cmiOptions_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663346" Name="cmiMinAll_Click" Variables="this;sender;e;procs;k;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663347" Name="cmiMaxAll_Click" Variables="this;sender;e;procs;k;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663348" Name="helpToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663349" Name="timer2_Tick" Variables="this;sender;e;key;ex;V_2;" ParamCnt="3" />
+<Method Token="100663350" Name="timer1_Tick_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663351" Name="timer2_Tick_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663352" Name="timer3_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663353" Name="notifyIcon1_MouseDoubleClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="cmiMinWindows_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="SetWinEventHook" Variables="eventMin;eventMax;hmodWinEventProc;lpfnWinEventProc;idProcess;idThread;dwflags;" ParamCnt="7" />
+<Method Token="100663356" Name="UnhookWinEvent" Variables="hWinEventHook;" ParamCnt="1" />
+<Method Token="100663357" Name="StartListeningForWindowChanges" Variables="this;" ParamCnt="1" />
+<Method Token="100663358" Name="StopListeningForWindowChanges" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="GetWindowLongPtr" Variables="hWnd;nIndex;" ParamCnt="2" />
+<Method Token="100663360" Name="GetAncestor" Variables="hwnd;flags;" ParamCnt="2" />
+<Method Token="100663361" Name="GetParent" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663362" Name="GetWindow" Variables="hWnd;uCmd;" ParamCnt="2" />
+<Method Token="100663363" Name="EventCallback" Variables="hWinEventHook;iEvent;hWnd;idObject;idChild;dwEventThread;dwmsEventTime;is_ancestor;V_1;" ParamCnt="7" />
+<Method Token="100663364" Name="GetWindowText" Variables="hWnd;lpString;nMaxCount;" ParamCnt="3" />
+<Method Token="100663365" Name="GetWindowTextLength" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663366" Name="IsWindowVisible" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663367" Name="MaximizeAppWindow" Variables="this;hWnd;V_0;p;pf;V_3;V_4;V_5;V_6;p;length;sb;wndtxt;pf;V_12;k;V_14;apptxt;V_16;regex;V_18;V_19;regex;V_21;V_22;V_23;V_24;V_25;V_26;" ParamCnt="2" />
+<Method Token="100663368" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663370" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108897" Name="MainModuleName" />
+<Field Token="67108898" Name="AppsForTray" />
+<Field Token="67108899" Name="AllAppInstancesToTray" />
+<Field Token="67108900" Name="WindowsPlacementHelper" />
+<Field Token="67108901" Name="NotifyIcons" />
+<Field Token="67108902" Name="WindowHandles" />
+<Field Token="67108903" Name="ProcNames" />
+<Field Token="67108904" Name="ContextMenuStrips" />
+<Field Token="67108905" Name="WindowsManager" />
+<Field Token="67108906" Name="AllMinimizedToTray" />
+<Field Token="67108907" Name="Instance" />
+<Field Token="67108908" Name="InLaunch" />
+<Field Token="67108909" Name="InTimer1_Tick" />
+<Field Token="67108910" Name="WINEVENT_OUTOFCONTEXT" />
+<Field Token="67108911" Name="EVENT_SYSTEM_MINIMIZEEND" />
+<Field Token="67108912" Name="EVENT_SYSTEM_SWITCHEND" />
+<Field Token="67108913" Name="EVENT_SYSTEM_FOREGROUND" />
+<Field Token="67108914" Name="EVENT_SYSTEM_MOVESIZEEND" />
+<Field Token="67108915" Name="EVENT_OBJECT_LOCATIONCHANGE" />
+<Field Token="67108916" Name="EVENT_SYSTEM_MINIMIZESTART" />
+<Field Token="67108917" Name="OBJID_WINDOW" />
+<Field Token="67108918" Name="GWL_EXSTYLE" />
+<Field Token="67108919" Name="GWL_STYLE" />
+<Field Token="67108920" Name="WS_EX_APPWINDOW" />
+<Field Token="67108921" Name="winHook" />
+<Field Token="67108922" Name="listener" />
+<Field Token="67108923" Name="winHook2" />
+<Field Token="67108924" Name="listener2" />
+<Field Token="67108925" Name="winHook3" />
+<Field Token="67108926" Name="listener3" />
+<Field Token="67108927" Name="winHook4" />
+<Field Token="67108928" Name="listener4" />
+<Field Token="67108929" Name="winHook5" />
+<Field Token="67108930" Name="listener5" />
+<Field Token="67108931" Name="WS_CHILD" />
+<Field Token="67108932" Name="WS_EX_TOOLWINDOW" />
+<Field Token="67108933" Name="WS_EX_TOPMOST" />
+<Field Token="67108934" Name="WS_EX_WINDOWEDGE" />
+<Field Token="67108935" Name="WS_EX_PALETTEWINDOW" />
+<Field Token="67108936" Name="GW_OWNER" />
+<Field Token="67108937" Name="GW_HWNDFIRST" />
+<Field Token="67108938" Name="GW_CHILD" />
+<Field Token="67108939" Name="WS_MAXIMIZEBOX" />
+<Field Token="67108940" Name="WS_MINIMIZEBOX" />
+<Field Token="67108941" Name="WS_THICKFRAME" />
+<Field Token="67108942" Name="WS_POPUP" />
+<Field Token="67108943" Name="WS_TILED" />
+<Field Token="67108944" Name="WS_BORDER" />
+<Field Token="67108945" Name="components" />
+<Field Token="67108946" Name="notifyIcon1" />
+<Field Token="67108947" Name="contextMenuStrip1" />
+<Field Token="67108948" Name="cmiExit" />
+<Field Token="67108949" Name="timer1W" />
+<Field Token="67108950" Name="cmiMinWindows" />
+<Field Token="67108951" Name="cmiMinAll" />
+<Field Token="67108952" Name="cmiMaxAll" />
+<Field Token="67108953" Name="toolStripMenuItem1" />
+<Field Token="67108954" Name="cmiOptions" />
+<Field Token="67108955" Name="helpToolStripMenuItem" />
+<Field Token="67108956" Name="timer2W" />
+<Field Token="67108957" Name="timer1" />
+<Field Token="67108958" Name="timer2" />
+<Field Token="67108959" Name="timer3" />
+<Type Token="33554441" Name="MaximizeAlways.frmPurchase" />
+<Method Token="100663371" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name=".ctor" Variables="this;msgtype;V_0;" ParamCnt="2" />
+<Method Token="100663373" Name=".ctor" Variables="this;msgtype;datefrom;datelast;V_0;V_1;dtfrom;dtlast;key;V_5;key;V_7;V_8;V_9;V_10;V_11;ts;days;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;f;" ParamCnt="4" />
+<Method Token="100663374" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663375" Name="frmPurchase_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663376" Name="btnRegister_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663377" Name="timContinue_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663378" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663379" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663380" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Method Token="100663382" Name="btnRegister_Click_1" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663383" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663384" Name="lblMsg_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663386" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108960" Name="TrialDay" />
+<Field Token="67108961" Name="RemainingDays" />
+<Field Token="67108962" Name="TimerCount" />
+<Field Token="67108963" Name="RenMove" />
+<Field Token="67108964" Name="Msg" />
+<Field Token="67108965" Name="Datefrom" />
+<Field Token="67108966" Name="Datelast" />
+<Field Token="67108967" Name="Instance" />
+<Field Token="67108968" Name="components" />
+<Field Token="67108969" Name="btnBuy" />
+<Field Token="67108970" Name="lblMsg" />
+<Field Token="67108971" Name="btnClose" />
+<Field Token="67108972" Name="lblWait" />
+<Field Token="67108973" Name="timContinue" />
+<Field Token="67108974" Name="lblAppName" />
+<Field Token="67108975" Name="btnRegister" />
+<Field Token="67108976" Name="btnExit" />
+<Field Token="67108977" Name="label1" />
+<Type Token="33554442" Name="MaximizeAlways.DisplayMessageType1" />
+<Field Token="67108978" Name="value__" />
+<Field Token="67108979" Name="License_Expired" />
+<Field Token="67108980" Name="License_N_Days_Remaining" />
+<Type Token="33554443" Name="MaximizeAlways.FuzzyMatch" />
+<Method Token="100663387" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663388" Name="ExtractPreviousFuzzyMatch" Variables="helpcolumn;shelp;istart;iend;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663389" Name="SetFuzzyHelpColumnText" Variables="fuzzypercent;helpcolumn;shelp;istart;iend;ishelp;V_4;V_5;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663390" Name="IsFuzzyMatchForReport" Variables="sNew;sOld;percent_fuzzy_from;percent_fuzzy_to;V_0;V_1;V_2;l;lp;V_5;" ParamCnt="4" />
+<Method Token="100663391" Name="IsFuzzyMatch" Variables="sNew;sOld;helpcolumn;ff;l;lp;V_3;iprevious;V_5;shelp;f;V_8;V_9;shelp;f;e;" ParamCnt="3" />
+<Type Token="33554444" Name="MaximizeAlways.FuzzyMatchResult" />
+<Method Token="100663392" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108981" Name="IsFuzzy" />
+<Field Token="67108982" Name="helpcolumn" />
+<Type Token="33554445" Name="MaximizeAlways.Levenshtein" />
+<Method Token="100663393" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663394" Name="iLD" Variables="this;sRow;sCol;RowLen;ColLen;RowIdx;ColIdx;Row_i;Col_j;cost;v0;v1;vTmp;max;V_11;V_12;V_13;V_14;V_15;V_16;V_17;m_min;b;c;V_21;V_22;V_23;V_24;V_25;" ParamCnt="3" />
+<Method Token="100663395" Name="Minimum" Variables="this;a;b;c;mi;V_1;V_2;V_3;" ParamCnt="4" />
+<Method Token="100663396" Name="LD" Variables="this;sNew;sOld;matrix;sNewLen;sOldLen;sNewIdx;sOldIdx;sNew_i;sOld_j;cost;max;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="3" />
+<Type Token="33554446" Name="MaximizeAlways.ImagesViewHelper" />
+<Method Token="100663397" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663398" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663399" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663400" Name="GeneratePreviewItems" Variables="sfilecontents;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;email;reg_key;myvl;datefrom;datelast;expired;userkey;encrypted_kleidi_xristi;kx;ky;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_53;ex;V_55;V_56;V_57;dtfrom;dtlast;key;V_61;key;V_63;V_64;V_65;V_66;V_67;" ParamCnt="0" />
+<Method Token="100663401" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67108983" Name="DtFrom" />
+<Field Token="67108984" Name="DtLast" />
+<Type Token="33554447" Name="MaximizeAlways.SettingsHelper" />
+<Method Token="100663402" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663403" Name=".cctor" Variables="" ParamCnt="0" />
+<Field Token="67108985" Name="RenMove" />
+<Type Token="33554448" Name="MaximizeAlways.InputModeHelper" />
+<Method Token="100663404" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663405" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663406" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663407" Name="AnalyzeSearch" Variables="email;serNum;maxCompLen;VolLabel;VolFlags;FSName;strDriveLetter;Ret;myvl;userkey;encrypted_kleidi_xristi;postCgi;dataLine;data;key;iv;byteData;enc;tdes;ict;ex;uri;request;bytes;outputStream;response;responseStream;reader;exp;V_29;V_30;reg_key;sfilecontents;elements;licfile;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;k;V_46;V_47;V_48;data;key;iv;byteData;enc;tdes;ict;ex;sw;e;exmain;" ParamCnt="0" />
+<Method Token="100663408" Name="Bin2Hex" Variables="bin;sb;V_1;V_2;b;V_4;" ParamCnt="1" />
+<Field Token="67108986" Name="frmad" />
+<Type Token="33554450" Name="MaximizeAlways.MessageHelper" />
+<Method Token="100663412" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663413" Name="RegisterWindowMessage" Variables="lpString;" ParamCnt="1" />
+<Method Token="100663414" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663415" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663416" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663417" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663418" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663419" Name="SetForegroundWindow" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663420" Name="SetForegroundWindow" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663421" Name="bringAppToFront" Variables="this;hWnd;V_0;" ParamCnt="2" />
+<Method Token="100663422" Name="sendWindowsStringMessage" Variables="this;hWnd;wParam;msg;result;V_1;sarr;len;cds;V_5;" ParamCnt="4" />
+<Method Token="100663423" Name="sendWindowsMessage" Variables="this;hWnd;Msg;wParam;lParam;result;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663424" Name="getWindowId" Variables="this;className;windowName;V_0;" ParamCnt="3" />
+<Method Token="100663425" Name="ShowWindow" Variables="this;hWnd;" ParamCnt="2" />
+<Method Token="100663426" Name="SetForegroundWindowApi" Variables="this;hWnd;" ParamCnt="2" />
+<Field Token="67108988" Name="WM_USER" />
+<Field Token="67108989" Name="WM_COPYDATA" />
+<Field Token="67108990" Name="WM_SHOWWINDOW" />
+<Type Token="33554451" Name="MaximizeAlways.MessageHelper2" />
+<Method Token="100663427" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663428" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663429" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663430" Name="RegisterWindowMessage" Variables="lpString;" ParamCnt="1" />
+<Method Token="100663431" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663432" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663433" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663434" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663435" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663436" Name="SetForegroundWindow" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663437" Name="bringAppToFront" Variables="this;hWnd;V_0;" ParamCnt="2" />
+<Method Token="100663438" Name="sendWindowsStringMessage" Variables="this;hWnd;wParam;msg;result;V_1;sarr;len;cds;V_5;" ParamCnt="4" />
+<Method Token="100663439" Name="sendWindowsMessage" Variables="this;hWnd;Msg;wParam;lParam;result;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663440" Name="getWindowId" Variables="this;className;windowName;V_0;" ParamCnt="3" />
+<Field Token="67108991" Name="WM_USER" />
+<Field Token="67108992" Name="WM_COPYDATA" />
+<Field Token="67108993" Name="HWND_BROADCAST" />
+<Field Token="67108994" Name="WM_ACTIVATEAPP" />
+<Type Token="33554452" Name="MaximizeAlways.MiscHelper" />
+<Method Token="100663441" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663442" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663443" Name="CurrentDomain_ProcessExit" Variables="sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;V_35;V_36;V_37;V_38;V_39;V_40;V_41;V_42;V_43;V_44;V_45;" ParamCnt="2" />
+<Method Token="100663444" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67108995" Name="DateTimeFormat" />
+<Type Token="33554454" Name="MaximizeAlways.Module" />
+<Method Token="100663452" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663453" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663454" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663455" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663456" Name="ShowError" Variables="msg;" ParamCnt="1" />
+<Method Token="100663457" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663458" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109002" Name="ApplicationName" />
+<Field Token="67109003" Name="Version" />
+<Field Token="67109004" Name="ShortApplicationTitle" />
+<Field Token="67109005" Name="ApplicationTitle" />
+<Field Token="67109006" Name="ProductWebpageURL" />
+<Field Token="67109007" Name="BuyURL" />
+<Type Token="33554455" Name="MaximizeAlways.NiceLine" />
+<Method Token="100663459" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663460" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663461" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663462" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663463" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663464" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663465" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663466" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663467" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663468" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663469" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663470" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663471" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663472" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663473" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663474" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109008" Name="components" />
+<Field Token="67109009" Name="_Caption" />
+<Field Token="67109010" Name="_CaptionMarginSpace" />
+<Field Token="67109011" Name="_CaptionPadding" />
+<Field Token="67109012" Name="_LineVerticalAlign" />
+<Field Token="67109013" Name="_CaptionOrizontalAlign" />
+<Type Token="33554456" Name="MaximizeAlways.LineVerticalAlign" />
+<Field Token="67109014" Name="value__" />
+<Field Token="67109015" Name="Top" />
+<Field Token="67109016" Name="Middle" />
+<Field Token="67109017" Name="Bottom" />
+<Type Token="33554457" Name="MaximizeAlways.CaptionOrizontalAlign" />
+<Field Token="67109018" Name="value__" />
+<Field Token="67109019" Name="Left" />
+<Field Token="67109020" Name="Center" />
+<Field Token="67109021" Name="Right" />
+<Type Token="33554458" Name="MaximizeAlways.ProcessFilenameRetriever" />
+<Method Token="100663475" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663476" Name="GetWindowThreadProcessId" Variables="hWnd;lpdwProcessId;" ParamCnt="2" />
+<Method Token="100663477" Name="GetProcessByHandle" Variables="hwnd;processID;V_1;" ParamCnt="1" />
+<Method Token="100663478" Name="GetExecutablePath" Variables="Process;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663479" Name="GetExecutablePathAboveVista" Variables="ProcessId;buffer;hprocess;V_2;size;V_4;str;V_6;V_7;" ParamCnt="1" />
+<Method Token="100663480" Name="QueryFullProcessImageName" Variables="hprocess;dwFlags;lpExeName;size;" ParamCnt="4" />
+<Method Token="100663481" Name="OpenProcess" Variables="dwDesiredAccess;bInheritHandle;dwProcessId;" ParamCnt="3" />
+<Method Token="100663482" Name="CloseHandle" Variables="hHandle;" ParamCnt="1" />
+<Type Token="33554459" Name="MaximizeAlways.Program" />
+<Method Token="100663483" Name="Main" Variables="args;f;V_1;" ParamCnt="1" />
+<Method Token="100663484" Name="CurrentDomain_ProcessExit" Variables="sender;e;V_0;" ParamCnt="2" />
+<Type Token="33554460" Name="MaximizeAlways.RegistryHelper2" />
+<Method Token="100663485" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663486" Name="GetKeyValue" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663487" Name="SetKeyValue2" Variables="AppRegKey;keystr;keyvalue;pr;V_1;" ParamCnt="3" />
+<Method Token="100663488" Name="SetKeyValue" Variables="AppRegKey;keystr;keyvalue;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Type Token="33554461" Name="MaximizeAlways.TranslateHelper" />
+<Method Token="100663489" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663490" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663491" Name="Translate" Variables="str;V_0;V_1;V_2;cm;V_4;cm;trnstr;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="1" />
+<Field Token="67109022" Name="rm" />
+<Field Token="67109023" Name="rm2" />
+<Type Token="33554462" Name="MaximizeAlways.URLLinkLabel" />
+<Method Token="100663492" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663493" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554463" Name="MaximizeAlways.WindowsEnumeratorHelper" />
+<Method Token="100663494" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663495" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663496" Name="IsWindowVisible" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663497" Name="GetDesktopWindow" Variables="" ParamCnt="0" />
+<Method Token="100663498" Name="GetWindowDC" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663499" Name="ReleaseDC" Variables="hWnd;hDC;" ParamCnt="2" />
+<Method Token="100663500" Name="GetWindowRect" Variables="hWnd;rect;" ParamCnt="2" />
+<Method Token="100663501" Name="WindowFromPoint" Variables="Point;" ParamCnt="1" />
+<Method Token="100663502" Name="GetWindowText" Variables="hWnd;lpWindowText;nMaxCount;" ParamCnt="3" />
+<Method Token="100663503" Name="EnumDesktopWindows" Variables="hDesktop;lpEnumCallbackFunction;lParam;" ParamCnt="3" />
+<Method Token="100663504" Name="GetOpenWindows" Variables="filter;V_2;V_3;" ParamCnt="0" />
+<Field Token="67109024" Name="LastPPWindowIntPtr" />
+<Type Token="33554464" Name="MaximizeAlways.OpenWindow" />
+<Method Token="100663505" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109025" Name="Handle" />
+<Field Token="67109026" Name="Title" />
+<Type Token="33554465" Name="MaximizeAlways.WindowsManager" />
+<Method Token="100663506" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663507" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663508" Name="SetForegroundWindowNative" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663509" Name="GetWindowThreadProcessId" Variables="hWnd;lpdwProcessId;" ParamCnt="2" />
+<Method Token="100663510" Name="OpenProcess" Variables="dwDesiredAccess;bInheritHandle;dwProcessId;" ParamCnt="3" />
+<Method Token="100663511" Name="GetModuleFileNameEx" Variables="hProcess;hModule;lpFilename;nSize;" ParamCnt="4" />
+<Method Token="100663512" Name="CloseHandle" Variables="hHandle;" ParamCnt="1" />
+<Method Token="100663513" Name="ShowWindow" Variables="hWnd;nCmdShow;" ParamCnt="2" />
+<Method Token="100663514" Name="GetWindowText" Variables="hWnd;lpWindowText;nMaxCount;" ParamCnt="3" />
+<Method Token="100663515" Name="SHGetFileInfo" Variables="pszPath;dwFileAttributes;psfi;cbSizeFileInfo;uFlags;" ParamCnt="5" />
+<Method Token="100663516" Name="MoveWindow" Variables="hwnd;X;Y;nWidth;nHeight;bRepaint;" ParamCnt="6" />
+<Method Token="100663517" Name="GetWindowRect" Variables="hWnd;rect;" ParamCnt="2" />
+<Method Token="100663518" Name="GetWindowPlacement" Variables="hWnd;lpwndpl;" ParamCnt="2" />
+<Method Token="100663519" Name="SetWindowPlacement" Variables="hWnd;lpwndpl;" ParamCnt="2" />
+<Method Token="100663520" Name="SetParent" Variables="hWndChild;hWndNewParent;" ParamCnt="2" />
+<Method Token="100663521" Name="GetParent" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663522" Name="HideWindow" Variables="handle;" ParamCnt="1" />
+<Method Token="100663523" Name="MinimizeWindow" Variables="handle;" ParamCnt="1" />
+<Method Token="100663524" Name="ShowWindow" Variables="hWnd;nCmdShow;" ParamCnt="2" />
+<Method Token="100663525" Name="MaximizeWindow" Variables="handle;" ParamCnt="1" />
+<Method Token="100663526" Name="ShowWindow" Variables="handle;" ParamCnt="1" />
+<Method Token="100663527" Name="GetApplicationIcon" Variables="this;file;ico;V_1;" ParamCnt="2" />
+<Method Token="100663528" Name="GetWindowFilePathFromHandle" Variables="this;hwnd;dwProcessId;hProcess;path;V_3;" ParamCnt="2" />
+<Method Token="100663529" Name="GetWindowIconFromHandle" Variables="this;hwnd;V_0;" ParamCnt="2" />
+<Field Token="67109027" Name="args" />
+<Field Token="67109028" Name="SHGFI_ICON" />
+<Field Token="67109029" Name="SHGFI_LARGEICON" />
+<Field Token="67109030" Name="SHGFI_SMALLICON" />
+<Field Token="67109031" Name="hImgSmall" />
+<Field Token="67109032" Name="shinfo" />
+<Field Token="67109033" Name="dictWindowParents" />
+<Field Token="67109034" Name="fa" />
+<Field Token="67109035" Name="SW_SHOWMAXIMIZED" />
+<Field Token="67109036" Name="SW_MAXIMIZE" />
+<Type Token="33554466" Name="MaximizeAlways.WindowsPlacementHelper" />
+<Method Token="100663530" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663531" Name="GetWindowPlacement" Variables="hWnd;lpwndpl;" ParamCnt="2" />
+<Method Token="100663532" Name="GetPlacement" Variables="this;Handle;placement;V_1;" ParamCnt="2" />
+<Method Token="100663533" Name="WindowIsMinimized" Variables="this;Handle;placement;V_1;V_2;" ParamCnt="2" />
+<Field Token="67109037" Name="SW_HIDE" />
+<Field Token="67109038" Name="SW_SHOWNORMAL" />
+<Field Token="67109039" Name="SW_NORMAL" />
+<Field Token="67109040" Name="SW_SHOWMINIMIZED" />
+<Field Token="67109041" Name="SW_SHOWMAXIMIZED" />
+<Field Token="67109042" Name="SW_MAXIMIZE" />
+<Field Token="67109043" Name="SW_SHOWNOACTIVATE" />
+<Field Token="67109044" Name="SW_SHOW" />
+<Field Token="67109045" Name="SW_MINIMIZE" />
+<Field Token="67109046" Name="SW_SHOWMINNOACTIVE" />
+<Field Token="67109047" Name="SW_SHOWNA" />
+<Field Token="67109048" Name="SW_RESTORE" />
+<Type Token="33554467" Name="MaximizeAlways.Properties.Resources" />
+<Method Token="100663534" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663535" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663536" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663537" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663538" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663539" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663540" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663541" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663542" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663543" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663544" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663545" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663546" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663547" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663548" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663549" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663550" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663551" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663552" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663553" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663554" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663555" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663556" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663557" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663558" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663559" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663560" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663561" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663562" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663563" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663564" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663565" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663566" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663567" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663568" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663569" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663570" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663571" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663572" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663573" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663574" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663575" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663576" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663577" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663578" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663579" Name="get_maximize_always_48" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663580" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663581" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663582" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663583" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663584" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663585" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663586" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663587" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109049" Name="resourceMan" />
+<Field Token="67109050" Name="resourceCulture" />
+<Type Token="33554468" Name="MaximizeAlways.Properties.Settings" />
+<Method Token="100663588" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663589" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663590" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663591" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663592" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109051" Name="defaultInstance" />
+<Type Token="33554469" Name="MaximizeAlways.frmMain/WinEventProc" />
+<Method Token="100663593" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663594" Name="Invoke" Variables="this;hWinEventHook;iEvent;hWnd;idObject;idChild;dwEventThread;dwmsEventTime;" ParamCnt="8" />
+<Method Token="100663595" Name="BeginInvoke" Variables="this;hWinEventHook;iEvent;hWnd;idObject;idChild;dwEventThread;dwmsEventTime;callback;object;" ParamCnt="10" />
+<Method Token="100663596" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554470" Name="MaximizeAlways.frmMain/GWL" />
+<Field Token="67109052" Name="value__" />
+<Field Token="67109053" Name="GWL_WNDPROC" />
+<Field Token="67109054" Name="GWL_HINSTANCE" />
+<Field Token="67109055" Name="GWL_HWNDPARENT" />
+<Field Token="67109056" Name="GWL_STYLE" />
+<Field Token="67109057" Name="GWL_EXSTYLE" />
+<Field Token="67109058" Name="GWL_USERDATA" />
+<Field Token="67109059" Name="GWL_ID" />
+<Type Token="33554471" Name="MaximizeAlways.frmMain/GetAncestorFlags" />
+<Field Token="67109060" Name="value__" />
+<Field Token="67109061" Name="GetParent" />
+<Field Token="67109062" Name="GetRoot" />
+<Field Token="67109063" Name="GetRootOwner" />
+<Type Token="33554472" Name="MaximizeAlways.MessageHelper/COPYDATASTRUCT" />
+<Field Token="67109064" Name="dwData" />
+<Field Token="67109065" Name="cbData" />
+<Field Token="67109066" Name="lpData" />
+<Type Token="33554473" Name="MaximizeAlways.MessageHelper2/COPYDATASTRUCT" />
+<Field Token="67109067" Name="dwData" />
+<Field Token="67109068" Name="cbData" />
+<Field Token="67109069" Name="lpData" />
+<Type Token="33554474" Name="MaximizeAlways.ProcessFilenameRetriever/ProcessAccessFlags" />
+<Field Token="67109070" Name="value__" />
+<Field Token="67109071" Name="All" />
+<Field Token="67109072" Name="Terminate" />
+<Field Token="67109073" Name="CreateThread" />
+<Field Token="67109074" Name="VMOperation" />
+<Field Token="67109075" Name="VMRead" />
+<Field Token="67109076" Name="VMWrite" />
+<Field Token="67109077" Name="DupHandle" />
+<Field Token="67109078" Name="SetInformation" />
+<Field Token="67109079" Name="QueryInformation" />
+<Field Token="67109080" Name="QueryLimitedInformation" />
+<Field Token="67109081" Name="Synchronize" />
+<Type Token="33554475" Name="MaximizeAlways.WindowsEnumeratorHelper/POINT" />
+<Method Token="100663597" Name=".ctor" Variables="this;x;y;" ParamCnt="3" />
+<Method Token="100663598" Name="op_Implicit" Variables="p;V_0;" ParamCnt="1" />
+<Method Token="100663599" Name="op_Implicit" Variables="p;V_0;" ParamCnt="1" />
+<Field Token="67109082" Name="X" />
+<Field Token="67109083" Name="Y" />
+<Type Token="33554476" Name="MaximizeAlways.WindowsEnumeratorHelper/RECT" />
+<Field Token="67109084" Name="left" />
+<Field Token="67109085" Name="top" />
+<Field Token="67109086" Name="right" />
+<Field Token="67109087" Name="bottom" />
+<Type Token="33554477" Name="MaximizeAlways.WindowsEnumeratorHelper/EnumDelegate" />
+<Method Token="100663600" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663601" Name="Invoke" Variables="this;hWnd;lParam;" ParamCnt="3" />
+<Method Token="100663602" Name="BeginInvoke" Variables="this;hWnd;lParam;callback;object;" ParamCnt="5" />
+<Method Token="100663603" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554478" Name="MaximizeAlways.WindowsEnumeratorHelper/&lt;&gt;c__DisplayClass12_0" />
+<Method Token="100663604" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663605" Name="&lt;GetOpenWindows&gt;b__0" Variables="this;hWnd;lParam;strbTitle;nLength;strTitle;V_3;op;V_5;" ParamCnt="3" />
+<Field Token="67109088" Name="alOpenWindows" />
+<Type Token="33554479" Name="MaximizeAlways.WindowsManager/ProcessAccessFlags" />
+<Field Token="67109089" Name="value__" />
+<Field Token="67109090" Name="All" />
+<Field Token="67109091" Name="Terminate" />
+<Field Token="67109092" Name="CreateThread" />
+<Field Token="67109093" Name="VMOperation" />
+<Field Token="67109094" Name="VMRead" />
+<Field Token="67109095" Name="VMWrite" />
+<Field Token="67109096" Name="DupHandle" />
+<Field Token="67109097" Name="SetInformation" />
+<Field Token="67109098" Name="QueryInformation" />
+<Field Token="67109099" Name="Synchronize" />
+<Type Token="33554480" Name="MaximizeAlways.WindowsManager/SHFILEINFO" />
+<Field Token="67109100" Name="hIcon" />
+<Field Token="67109101" Name="iIcon" />
+<Field Token="67109102" Name="dwAttributes" />
+<Field Token="67109103" Name="szDisplayName" />
+<Field Token="67109104" Name="szTypeName" />
+<Type Token="33554481" Name="MaximizeAlways.WindowsManager/WindowShowStyle" />
+<Field Token="67109105" Name="value__" />
+<Field Token="67109106" Name="Hide" />
+<Field Token="67109107" Name="ShowNormal" />
+<Field Token="67109108" Name="ShowMinimized" />
+<Field Token="67109109" Name="ShowMaximized" />
+<Field Token="67109110" Name="Maximize" />
+<Field Token="67109111" Name="ShowNormalNoActivate" />
+<Field Token="67109112" Name="Show" />
+<Field Token="67109113" Name="Minimize" />
+<Field Token="67109114" Name="ShowMinNoActivate" />
+<Field Token="67109115" Name="ShowNoActivate" />
+<Field Token="67109116" Name="Restore" />
+<Field Token="67109117" Name="ShowDefault" />
+<Field Token="67109118" Name="ForceMinimized" />
+<Type Token="33554482" Name="MaximizeAlways.WindowsManager/RECT" />
+<Field Token="67109119" Name="left" />
+<Field Token="67109120" Name="top" />
+<Field Token="67109121" Name="right" />
+<Field Token="67109122" Name="bottom" />
+<Type Token="33554483" Name="MaximizeAlways.WindowsManager/WINDOWPLACEMENT" />
+<Field Token="67109123" Name="length" />
+<Field Token="67109124" Name="flags" />
+<Field Token="67109125" Name="showCmd" />
+<Field Token="67109126" Name="ptMinPosition" />
+<Field Token="67109127" Name="ptMaxPosition" />
+<Field Token="67109128" Name="rcNormalPosition" />
+<Type Token="33554484" Name="MaximizeAlways.WindowsPlacementHelper/WINDOWPLACEMENT" />
+<Field Token="67109129" Name="length" />
+<Field Token="67109130" Name="flags" />
+<Field Token="67109131" Name="showCmd" />
+<Field Token="67109132" Name="ptMinPosition" />
+<Field Token="67109133" Name="ptMaxPosition" />
+<Field Token="67109134" Name="rcNormalPosition" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663305" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
